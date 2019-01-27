@@ -1,0 +1,9 @@
+/**
+!/.git/**
+!/.gitignore
+
+!/package.json
+!/src
+!/src/index.js
+!/README.md
+!/dist
