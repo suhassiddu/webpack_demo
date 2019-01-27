@@ -1,4 +1,4 @@
-/**
+*
 !/.git/**
 !/.gitignore
 
@@ -6,4 +6,4 @@
 !/src
 !/src/index.js
 !/README.md
-!/dist/
+!/dist
